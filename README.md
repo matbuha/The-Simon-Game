@@ -5,10 +5,10 @@ Designed with a sleek, responsive interface, the game challenges players to reme
 Built with **HTML, CSS, and JavaScript**, this project offers an engaging way to test and improve memory skills through a simple yet captivating gameplay experience.
 
 ## Features
-**Responsive Design:** The game interface dynamically adjusts to different screen sizes, ensuring a consistent gaming experience across devices including desktops, tablets, and smartphones.
-**Difficulty Levels:** Players can choose between Easy and Hard modes. Easy mode replays all previous sequences before adding a new one, while Hard mode presents only the new sequence, increasing the memory challenge.
-**Sound Effects:** Each color in the game has a corresponding sound that plays when the color is highlighted, enhancing the sensory experience and aiding in the memorization process. An additional sound indicates when the player has made an incorrect sequence choice.
-**Dynamic User Interaction:** The game responds to both keyboard and mouse inputs, making it accessible and easy to interact with.
+- **Responsive Design:** The game interface dynamically adjusts to different screen sizes, ensuring a consistent gaming experience across devices including desktops, tablets, and smartphones.
+- **Difficulty Levels:** Players can choose between Easy and Hard modes. Easy mode replays all previous sequences before adding a new one, while Hard mode presents only the new sequence, increasing the memory challenge.
+- **Sound Effects:** Each color in the game has a corresponding sound that plays when the color is highlighted, enhancing the sensory experience and aiding in the memorization process. An additional sound indicates when the player has made an incorrect sequence choice.
+- **Dynamic User Interaction:** The game responds to both keyboard and mouse inputs, making it accessible and easy to interact with.
 
 ## Technologies Used
 **HTML:** Structured the game's layout with semantic elements, creating a robust and accessible DOM structure.
