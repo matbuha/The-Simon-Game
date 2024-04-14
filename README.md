@@ -4,6 +4,8 @@ The Simon Game is a modern interpretation of the classic memory enhancement game
 Designed with a sleek, responsive interface, the game challenges players to remember and repeat an increasingly complex sequence of colors.
 Built with **HTML, CSS, and JavaScript**, this project offers an engaging way to test and improve memory skills through a simple yet captivating gameplay experience.
 
+![Screenshot of the game.](https://github.com/matbuha/The-Simon-Game/blob/main/images/Screenshot.png)
+
 ## Features
 - **Responsive Design:** The game interface dynamically adjusts to different screen sizes, ensuring a consistent gaming experience across devices including desktops, tablets, and smartphones.
 - **Difficulty Levels:** Players can choose between Easy and Hard modes. Easy mode replays all previous sequences before adding a new one, while Hard mode presents only the new sequence, increasing the memory challenge.
