@@ -22,7 +22,7 @@ Built with **HTML, CSS, and JavaScript**, this project offers an engaging way to
 4. **Progression and Difficulty:** The game increases in complexity with each successful round, adding more colors to the sequence. Incorrect sequences trigger a game-over state, and players can choose to restart and try to beat their high score.
 
 ## Play the game
-You can play the game via this link:
+You can play the game via this [link to the game](https://matbuha.github.io/The-Simon-Game/).
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes.
